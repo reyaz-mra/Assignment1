@@ -1,0 +1,7 @@
+Assignment 1
+
+Md Reyaz Alam
+
+Answer
+1.a - O(n log n)
+1.b - O(n2)
